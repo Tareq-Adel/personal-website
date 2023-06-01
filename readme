@@ -1,0 +1,18 @@
+
+Welcome Welcome!! I'm Tareq Adel Abu Hashish and It's my personal portfolio website! This project, created as part of the "Web Development" course at Al-Azhar University, showcases Tareq's personal information, educational background, courses taken, and work experience. It utilizes HTML, CSS, PHP, and a MySQL database to provide a dynamic and interactive user experience.
+
+The website consists of several key pages:
+
+ 1- Home/Personal Information Page: This page presents an overview of my background, skills, and contact information. It serves as an introduction to the website and provides visitors with an insight into Tareq's professional profile.
+
+ 2- Add Course Page: A form is provided on this page, allowing to add information about the courses he has taken. The form includes fields such as course name, duration, institution, and an option to attach a certificate file. It provided submit the form to add a new course to his portfolio.
+
+ 3- Add Experience Page: Similar to the Add Course page, this page features a form that enables Tareq to input details about his work experience. Fields may include job title, company, duration, responsibilities, and achievements. It provided submit the form to add a new experience to his portfolio.
+
+ 4- Show Courses Page: This page displays a list of the courses Tareq has taken. Each course entry may include its name, duration, institution, and a URL link to view the associated certificate. Visitors can browse through the course history and access certificate files for further verification.
+
+ 5- Show Experience Page: This page showcases the work experience, presenting a chronological list of his previous positions. Each entry may contain details about the job title, company, duration, responsibilities, and achievements. Visitors can gain insights into  professional journey and the skills he has developed along the way.
+
+ 6- View page (attatchment Page): this page used by show courses page that show the attatchment page that containing a certificate-pic and more information about the course.
+
+By combining front-end technologies (HTML and CSS) with back-end development (PHP and MySQL), Tareq's personal portfolio website offers a visually appealing and user-friendly experience. It allows to easily add new courses and experiences to his portfolio while providing visitors with comprehensive information about his educational background and professional expertise.
